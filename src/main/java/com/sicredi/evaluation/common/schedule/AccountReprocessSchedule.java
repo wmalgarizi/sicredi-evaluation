@@ -1,6 +1,6 @@
 package com.sicredi.evaluation.common.schedule;
 
-import com.sicredi.evaluation.common.AccountUpdateFacade;
+import com.sicredi.evaluation.common.facade.AccountUpdateFacade;
 import lombok.AllArgsConstructor;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;

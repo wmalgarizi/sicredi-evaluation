@@ -1,4 +1,4 @@
-package com.sicredi.evaluation.common;
+package com.sicredi.evaluation.common.facade;
 
 import com.sicredi.evaluation.common.exception.ConnectionTimeoutException;
 import com.sicredi.evaluation.common.exception.ServiceUnavailableException;

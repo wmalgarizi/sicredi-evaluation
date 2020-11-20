@@ -2,6 +2,7 @@ package com.sicredi.evaluation.common;
 
 import com.sicredi.evaluation.common.exception.ConnectionTimeoutException;
 import com.sicredi.evaluation.common.exception.ServiceUnavailableException;
+import com.sicredi.evaluation.common.facade.AccountUpdateFacade;
 import com.sicredi.evaluation.common.model.AccountErrorEntity;
 import com.sicredi.evaluation.common.service.AccountErrorService;
 import com.sicredi.evaluation.common.service.ReceitaService;
